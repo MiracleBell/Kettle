@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+markups/__init__.py
+markups/parser.py
+pyTelegramBotAPI_markups.egg-info/PKG-INFO
+pyTelegramBotAPI_markups.egg-info/SOURCES.txt
+pyTelegramBotAPI_markups.egg-info/dependency_links.txt
+pyTelegramBotAPI_markups.egg-info/not-zip-safe
+pyTelegramBotAPI_markups.egg-info/requires.txt
+pyTelegramBotAPI_markups.egg-info/top_level.txt

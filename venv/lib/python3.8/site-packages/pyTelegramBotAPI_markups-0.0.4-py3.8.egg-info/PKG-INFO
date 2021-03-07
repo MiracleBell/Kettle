@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pyTelegramBotAPI-markups
+Version: 0.0.4
+Summary: Handy markups for pyTelegramBotApi
+Home-page: https://github.com/Mityuha/pyTelegramBotAPI_markups
+Author: Dmitry Makarov
+Author-email: mit.makaroff@gmail.com
+License: GPL2
+Description: UNKNOWN
+Keywords: markups pytelegrambotapi
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
